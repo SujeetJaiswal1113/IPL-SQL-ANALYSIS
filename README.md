@@ -1,8 +1,8 @@
-**IPL Cricket Analytics using SQL Server**
+**IPL 2023 Cricket Analytics using SQL Server**
 
 **PROJECT OVERVIEW**
 
-This project analyzes Indian Premier League (IPL) cricket data using SQL Server. The objective is to derive insights into team performance, player performance, match outcomes, and season trends through SQL-based data analysis.
+This project analyzes IPL 2023 cricket data using SQL Server. The objective is to derive insights into team performance, player performance, match outcomes, and season trends through SQL-based data analysis.
 
 The project demonstrates practical SQL skills including data cleaning, aggregation, joins, Common Table Expressions (CTEs), and Window Functions.
 
